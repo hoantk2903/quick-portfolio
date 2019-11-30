@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](https://github.com/hoantk2903/projectDataAnalysis/tree/master/project%201)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project1.png?raw=true"/>
 [Report here](https://github.com/hoantk2903/projectDataAnalysis/blob/master/project%201/report.pdf)
 
 ---
