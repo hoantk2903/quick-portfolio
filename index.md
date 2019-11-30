@@ -6,15 +6,15 @@
 
 [Project 1 Title](https://github.com/hoantk2903/projectDataAnalysis/tree/master/project%201)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Report here](https://github.com/hoantk2903/projectDataAnalysis/blob/master/project%201/report.pdf)
 ---
 [Project 2 Title](https://github.com/hoantk2903/projectDataAnalysis/tree/master/Project%202)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Report here]()
 ---
 [Project 3 Title](https://github.com/hoantk2903/projectDataAnalysis/tree/master/project%203)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Report here]()
 ---
 
 ### Category Name 2
