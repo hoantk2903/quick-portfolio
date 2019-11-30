@@ -11,12 +11,12 @@
 ---
 [Project 2 Title](https://github.com/hoantk2903/projectDataAnalysis/tree/master/Project%202)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-[Report here](https://github.com/hoantk2903/projectDataAnalysis/blob/master/Project%202/report.pdf)
+[Report here](https://github.com/hoantk2903/projectDataAnalysis/blob/master/Project%202/Report.docx)
 
 ---
 [Project 3 Title](https://github.com/hoantk2903/projectDataAnalysis/tree/master/project%203)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-[Report here](https://github.com/hoantk2903/projectDataAnalysis/blob/master/project%203/report.pdf)
+[Report here](https://github.com/hoantk2903/projectDataAnalysis/tree/master/project%203/reports)
 
 ---
 
