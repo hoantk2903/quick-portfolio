@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](https://github.com/hoantk2903/projectDataAnalysis/tree/master/Project%202)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](https://github.com/hoantk2903/projectDataAnalysis/tree/master/project%203)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
