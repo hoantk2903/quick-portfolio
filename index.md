@@ -28,9 +28,7 @@
 
 <img src="images/project3.png?raw=true"/>
 
-### [View reports here]
-(https://github.com/hoantk2903/projectDataAnalysis/tree/master/project%203/reports)
-
+### [View reports here](https://github.com/hoantk2903/projectDataAnalysis/tree/master/project%203/reports)
 
 ---
 
