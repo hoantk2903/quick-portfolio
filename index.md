@@ -11,7 +11,7 @@
 ---
 ### [Project 2: Excel and Data analytics](https://github.com/hoantk2903/projectDataAnalysis/tree/master/Project%202)
 <img src="images/project2.png?raw=true"/>
-[Report here](https://github.com/hoantk2903/projectDataAnalysis/blob/master/Project%202/Report.docx)
+[Report here](https://github.com/hoantk2903/projectDataAnalysis/blob/master/Project%202/Report.pdf)
 
 ---
 ### [Project 3: SQL](https://github.com/hoantk2903/projectDataAnalysis/tree/master/project%203)
