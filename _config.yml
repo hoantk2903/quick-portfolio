@@ -1,5 +1,6 @@
 title: Hoa Nguyen # your name (or website title) here
-logo: "/images/hinhhoa.JPG?raw=true" # your photo (or logo) here
+# logo: "/images/hinhhoa.JPG?raw=true" # your photo (or logo) here
+logo: "/images/hinhhoa.JPG?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Master of Business Information System- Swinburne University of Technology (2018-2020)
   <br><br>
